@@ -1,4 +1,4 @@
-# Getting Started with Create React AppsSS12
+# Getting Started with Create React appplication
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
