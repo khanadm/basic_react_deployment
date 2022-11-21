@@ -1,4 +1,4 @@
-# Getting Started with Create React apppli
+# Getting Started with Create React appp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
